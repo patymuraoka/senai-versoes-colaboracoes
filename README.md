@@ -1,3 +1,9 @@
-# senai-versoes-colaboracoes
-Repositório de versões e colaborações
-readme de exemplo
+# Atividade 1 módulo Versionamento
+## Principais comandos utilizados para gerenciar o versionamento de código
+
+- git status
+- git add
+- git commit -m
+- git push -u origin master
+- git pull
+
